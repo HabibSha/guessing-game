@@ -39,6 +39,9 @@
     padding: 7px 7px;
     background-color: rgb(25, 76, 153);
 }
+form {
+    margin-bottom: 22px;
+}
 .align {
     text-align: end;
     margin-top: 16px;
@@ -58,7 +61,6 @@ p {
     color: #fff;
     text-align: center;
     font-size: 18px;
-    margin-top: 20px;
 }
 .large-text {
     font-size: 1.5rem;
